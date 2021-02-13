@@ -1,5 +1,7 @@
 %% Main
 % This code is for M-fold validation of RPT, CCA IT and CCA
+% "Detection of brain stimuli using Ramanujan periodicity transforms." Journal of neural engineering 16.3 (2019).
+
 clear all
 Number_of_trials = 15;
 N_folds = 5;

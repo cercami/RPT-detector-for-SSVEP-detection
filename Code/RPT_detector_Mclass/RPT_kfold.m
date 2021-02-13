@@ -1,4 +1,5 @@
 %% Journal of Neural Engineering
+% "Detection of brain stimuli using Ramanujan periodicity transforms." Journal of neural engineering 16.3 (2019).
 % An extenstion to the Asilomar paper
 % We address multiple classes, multiple channels
 %% Define variable;
