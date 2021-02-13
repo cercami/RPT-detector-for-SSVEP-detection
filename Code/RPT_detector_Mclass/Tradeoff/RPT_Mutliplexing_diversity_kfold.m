@@ -1,3 +1,5 @@
+% "Detection of brain stimuli using Ramanujan periodicity transforms." Journal of neural engineering 16.3 (2019).
+
 function [P_e] = RPT_Mutliplexing_diversity_kfold(Indices,Number_train,Target_Freq,T_set_length,L,Number_test_class,Number_of_Channels,fs,Observation_Mat,var_estimate_length)
         counter_M = 1;
         for Number_of_Classes = 2:T_set_length
